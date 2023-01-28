@@ -1,0 +1,15 @@
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\PriceCalculator\bin\Debug\net6.0\PriceCalculator.exe
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\PriceCalculator\bin\Debug\net6.0\PriceCalculator.deps.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\PriceCalculator\bin\Debug\net6.0\PriceCalculator.runtimeconfig.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\PriceCalculator\bin\Debug\net6.0\PriceCalculator.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\PriceCalculator\bin\Debug\net6.0\PriceCalculator.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\PriceCalculator\obj\Debug\net6.0\PriceCalculator.csproj.AssemblyReference.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\PriceCalculator\obj\Debug\net6.0\PriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\PriceCalculator\obj\Debug\net6.0\PriceCalculator.AssemblyInfoInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\PriceCalculator\obj\Debug\net6.0\PriceCalculator.AssemblyInfo.cs
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\PriceCalculator\obj\Debug\net6.0\PriceCalculator.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\PriceCalculator\obj\Debug\net6.0\PriceCalculator.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\PriceCalculator\obj\Debug\net6.0\refint\PriceCalculator.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\PriceCalculator\obj\Debug\net6.0\PriceCalculator.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\PriceCalculator\obj\Debug\net6.0\PriceCalculator.genruntimeconfig.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\PriceCalculator\obj\Debug\net6.0\ref\PriceCalculator.dll

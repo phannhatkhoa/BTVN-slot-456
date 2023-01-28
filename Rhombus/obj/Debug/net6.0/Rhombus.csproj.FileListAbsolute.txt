@@ -1,0 +1,15 @@
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rhombus\bin\Debug\net6.0\Rhombus.exe
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rhombus\bin\Debug\net6.0\Rhombus.deps.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rhombus\bin\Debug\net6.0\Rhombus.runtimeconfig.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rhombus\bin\Debug\net6.0\Rhombus.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rhombus\bin\Debug\net6.0\Rhombus.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rhombus\obj\Debug\net6.0\Rhombus.csproj.AssemblyReference.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rhombus\obj\Debug\net6.0\Rhombus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rhombus\obj\Debug\net6.0\Rhombus.AssemblyInfoInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rhombus\obj\Debug\net6.0\Rhombus.AssemblyInfo.cs
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rhombus\obj\Debug\net6.0\Rhombus.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rhombus\obj\Debug\net6.0\Rhombus.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rhombus\obj\Debug\net6.0\refint\Rhombus.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rhombus\obj\Debug\net6.0\Rhombus.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rhombus\obj\Debug\net6.0\Rhombus.genruntimeconfig.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rhombus\obj\Debug\net6.0\ref\Rhombus.dll

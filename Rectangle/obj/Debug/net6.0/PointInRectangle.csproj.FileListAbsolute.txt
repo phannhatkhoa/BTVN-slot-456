@@ -1,0 +1,15 @@
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rectangle\bin\Debug\net6.0\PointInRectangle.exe
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rectangle\bin\Debug\net6.0\PointInRectangle.deps.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rectangle\bin\Debug\net6.0\PointInRectangle.runtimeconfig.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rectangle\bin\Debug\net6.0\PointInRectangle.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rectangle\bin\Debug\net6.0\PointInRectangle.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rectangle\obj\Debug\net6.0\PointInRectangle.csproj.AssemblyReference.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rectangle\obj\Debug\net6.0\PointInRectangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rectangle\obj\Debug\net6.0\PointInRectangle.AssemblyInfoInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rectangle\obj\Debug\net6.0\PointInRectangle.AssemblyInfo.cs
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rectangle\obj\Debug\net6.0\PointInRectangle.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rectangle\obj\Debug\net6.0\PointInRectangle.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rectangle\obj\Debug\net6.0\refint\PointInRectangle.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rectangle\obj\Debug\net6.0\PointInRectangle.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rectangle\obj\Debug\net6.0\PointInRectangle.genruntimeconfig.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Rectangle\obj\Debug\net6.0\ref\PointInRectangle.dll

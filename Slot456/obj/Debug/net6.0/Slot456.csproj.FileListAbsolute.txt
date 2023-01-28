@@ -1,0 +1,15 @@
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Slot456\bin\Debug\net6.0\Slot456.exe
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Slot456\bin\Debug\net6.0\Slot456.deps.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Slot456\bin\Debug\net6.0\Slot456.runtimeconfig.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Slot456\bin\Debug\net6.0\Slot456.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Slot456\bin\Debug\net6.0\Slot456.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Slot456\obj\Debug\net6.0\Slot456.csproj.AssemblyReference.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Slot456\obj\Debug\net6.0\Slot456.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Slot456\obj\Debug\net6.0\Slot456.AssemblyInfoInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Slot456\obj\Debug\net6.0\Slot456.AssemblyInfo.cs
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Slot456\obj\Debug\net6.0\Slot456.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Slot456\obj\Debug\net6.0\Slot456.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Slot456\obj\Debug\net6.0\refint\Slot456.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Slot456\obj\Debug\net6.0\Slot456.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Slot456\obj\Debug\net6.0\Slot456.genruntimeconfig.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\Slot456\obj\Debug\net6.0\ref\Slot456.dll

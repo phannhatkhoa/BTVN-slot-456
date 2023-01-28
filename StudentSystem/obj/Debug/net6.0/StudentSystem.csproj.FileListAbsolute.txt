@@ -1,0 +1,15 @@
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\StudentSystem\bin\Debug\net6.0\StudentSystem.exe
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\StudentSystem\bin\Debug\net6.0\StudentSystem.deps.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\StudentSystem\bin\Debug\net6.0\StudentSystem.runtimeconfig.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\StudentSystem\bin\Debug\net6.0\StudentSystem.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\StudentSystem\bin\Debug\net6.0\StudentSystem.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\StudentSystem\obj\Debug\net6.0\StudentSystem.csproj.AssemblyReference.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\StudentSystem\obj\Debug\net6.0\StudentSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\StudentSystem\obj\Debug\net6.0\StudentSystem.AssemblyInfoInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\StudentSystem\obj\Debug\net6.0\StudentSystem.AssemblyInfo.cs
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\StudentSystem\obj\Debug\net6.0\StudentSystem.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\StudentSystem\obj\Debug\net6.0\StudentSystem.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\StudentSystem\obj\Debug\net6.0\refint\StudentSystem.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\StudentSystem\obj\Debug\net6.0\StudentSystem.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\StudentSystem\obj\Debug\net6.0\StudentSystem.genruntimeconfig.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot456\StudentSystem\obj\Debug\net6.0\ref\StudentSystem.dll
